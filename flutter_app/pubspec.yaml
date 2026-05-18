@@ -1,0 +1,47 @@
+name: maahir_app
+description: "Maahir - Agentic AI Service Orchestrator for Pakistan's informal economy"
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.2.0
+  provider: ^6.1.0
+  google_fonts: ^6.1.0
+  shimmer: ^3.0.0
+  flutter_animate: ^4.5.0
+  intl: ^0.19.0
+  uuid: ^4.3.0
+  animated_text_kit: ^4.2.0
+  cupertino_icons: ^1.0.8
+  flutter_markdown: ^0.7.7+1
+  markdown_widget: ^2.3.1
+  speech_to_text: ^7.3.0
+  url_launcher: ^6.2.5
+  share_plus: ^7.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_native_splash: ^2.4.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/
+
+flutter_native_splash:
+  color: "#0A0E1A"
+  image: "assets/logo_premium.png"
+  color_dark: "#0A0E1A"
+  image_dark: "assets/logo_premium.png"
+  android_12:
+    color: "#0A0E1A"
+    image: "assets/logo_premium.png"
+    color_dark: "#0A0E1A"
+    image_dark: "assets/logo_premium.png"

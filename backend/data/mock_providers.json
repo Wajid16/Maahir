@@ -1,0 +1,4453 @@
+[
+  {
+    "id": "prov_001",
+    "name": "Ali Hassan",
+    "business_name": "Ali Hassan Professionals",
+    "service_type": "carpenter",
+    "services": [
+      "Wood polishing",
+      "Furniture repair",
+      "Door lock fix"
+    ],
+    "rating": 3.2,
+    "total_reviews": 133,
+    "experience_years": 14,
+    "phone": "+92-349-9156016",
+    "verified": true,
+    "location": {
+      "sector": "F-7",
+      "city": "Islamabad",
+      "lat": 33.7207,
+      "lng": 73.0761
+    },
+    "price_range": {
+      "min": 1200,
+      "max": 7600,
+      "currency": "PKR"
+    },
+    "availability": [
+      {
+        "day": "monday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "tuesday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "wednesday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "thursday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "friday",
+        "slots": [
+          "09:00-12:00"
+        ]
+      },
+      {
+        "day": "saturday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "sunday",
+        "slots": []
+      }
+    ],
+    "languages": [
+      "Urdu",
+      "English"
+    ],
+    "response_time_minutes": 15,
+    "reliability_score": 97.4,
+    "cancellation_rate": 9.9,
+    "review_recency_days": 11,
+    "job_complexity_skills": [
+      "basic",
+      "intermediate"
+    ],
+    "certifications": [
+      "Wood Polishing",
+      "Door/Window Fitting",
+      "Furniture Making"
+    ],
+    "tools_owned": [
+      "Circular saw",
+      "Power drill",
+      "Measuring tape",
+      "Chisel set"
+    ],
+    "recent_reviews": [
+      {
+        "rating": 2,
+        "text": "Poor communication",
+        "days_ago": 12
+      },
+      {
+        "rating": 2,
+        "text": "Poor communication",
+        "days_ago": 19
+      },
+      {
+        "rating": 2,
+        "text": "Late aaya aur kaam bhi slow tha",
+        "days_ago": 26
+      },
+      {
+        "rating": 3,
+        "text": "Theek tha, not great",
+        "days_ago": 31
+      },
+      {
+        "rating": 4,
+        "text": "Time pe aaya aur kaam bhi theek kiya",
+        "days_ago": 34
+      },
+      {
+        "rating": 4,
+        "text": "Time pe aaya aur kaam bhi theek kiya",
+        "days_ago": 37
+      }
+    ],
+    "completed_jobs_30d": 20,
+    "active_bookings_today": 3,
+    "complaint_rate": 0.1,
+    "preferred_areas": [
+      "I-10",
+      "F-8",
+      "G-13"
+    ],
+    "transport_mode": "car",
+    "average_completion_time_min": 75,
+    "gender": "female"
+  },
+  {
+    "id": "prov_002",
+    "name": "Ahmad Khan",
+    "business_name": "Ahmad Services",
+    "service_type": "pest_control",
+    "services": [
+      "Bed bug removal",
+      "General fumigation",
+      "Termite treatment"
+    ],
+    "rating": 3.5,
+    "total_reviews": 24,
+    "experience_years": 12,
+    "phone": "+92-305-4844159",
+    "verified": true,
+    "location": {
+      "sector": "F-10",
+      "city": "Islamabad",
+      "lat": 33.7,
+      "lng": 73.0232
+    },
+    "price_range": {
+      "min": 2800,
+      "max": 8700,
+      "currency": "PKR"
+    },
+    "availability": [
+      {
+        "day": "monday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "tuesday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "wednesday",
+        "slots": []
+      },
+      {
+        "day": "thursday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "friday",
+        "slots": []
+      },
+      {
+        "day": "saturday",
+        "slots": [
+          "10:00-18:00"
+        ]
+      },
+      {
+        "day": "sunday",
+        "slots": [
+          "10:00-18:00"
+        ]
+      }
+    ],
+    "languages": [
+      "Urdu"
+    ],
+    "response_time_minutes": 60,
+    "reliability_score": 98.9,
+    "cancellation_rate": 9.4,
+    "review_recency_days": 15,
+    "job_complexity_skills": [
+      "basic",
+      "intermediate",
+      "complex"
+    ],
+    "certifications": [
+      "Termite Treatment",
+      "Rodent Control",
+      "Fumigation Safety"
+    ],
+    "tools_owned": [
+      "Spray machine",
+      "Inspection torch",
+      "Safety mask",
+      "Chemical kit"
+    ],
+    "recent_reviews": [
+      {
+        "rating": 4,
+        "text": "Satisfied with the service",
+        "days_ago": 4
+      },
+      {
+        "rating": 4,
+        "text": "Satisfied with the service",
+        "days_ago": 22
+      },
+      {
+        "rating": 1,
+        "text": "Very bad quality, had to call someone else",
+        "days_ago": 43
+      }
+    ],
+    "completed_jobs_30d": 15,
+    "active_bookings_today": 1,
+    "complaint_rate": 2.1,
+    "preferred_areas": [
+      "F-8",
+      "G-13",
+      "H-8",
+      "Blue Area"
+    ],
+    "transport_mode": "motorcycle",
+    "average_completion_time_min": 75,
+    "gender": "female"
+  },
+  {
+    "id": "prov_003",
+    "name": "Bilal Tariq",
+    "business_name": "Expert Ac Technician by Bilal",
+    "service_type": "ac_technician",
+    "services": [
+      "AC maintenance",
+      "AC repair",
+      "AC gas refill"
+    ],
+    "rating": 3.4,
+    "total_reviews": 51,
+    "experience_years": 1,
+    "phone": "+92-325-5562225",
+    "verified": false,
+    "location": {
+      "sector": "Bahria Town",
+      "city": "Islamabad",
+      "lat": 33.5213,
+      "lng": 73.085
+    },
+    "price_range": {
+      "min": 1200,
+      "max": 4900,
+      "currency": "PKR"
+    },
+    "availability": [
+      {
+        "day": "monday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "tuesday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "wednesday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "thursday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "friday",
+        "slots": [
+          "09:00-12:00"
+        ]
+      },
+      {
+        "day": "saturday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "sunday",
+        "slots": []
+      }
+    ],
+    "languages": [
+      "Urdu",
+      "English"
+    ],
+    "response_time_minutes": 15,
+    "reliability_score": 72.5,
+    "cancellation_rate": 13.5,
+    "review_recency_days": 35,
+    "job_complexity_skills": [
+      "basic",
+      "intermediate"
+    ],
+    "certifications": [
+      "Inverter AC Specialist"
+    ],
+    "tools_owned": [
+      "Flare tool",
+      "Vacuum pump"
+    ],
+    "recent_reviews": [
+      {
+        "rating": 5,
+        "text": "Excellent work, very professional",
+        "days_ago": 12
+      },
+      {
+        "rating": 2,
+        "text": "Not satisfied, overcharged",
+        "days_ago": 18
+      },
+      {
+        "rating": 2,
+        "text": "Poor communication",
+        "days_ago": 25
+      },
+      {
+        "rating": 4,
+        "text": "Satisfied with the service",
+        "days_ago": 27
+      },
+      {
+        "rating": 2,
+        "text": "Late aaya aur kaam bhi slow tha",
+        "days_ago": 31
+      }
+    ],
+    "completed_jobs_30d": 11,
+    "active_bookings_today": 3,
+    "complaint_rate": 2.1,
+    "preferred_areas": [
+      "I-10",
+      "G-14"
+    ],
+    "transport_mode": "motorcycle",
+    "average_completion_time_min": 60,
+    "gender": "female"
+  },
+  {
+    "id": "prov_004",
+    "name": "Kamran Ahmed",
+    "business_name": "Expert Painter by Kamran",
+    "service_type": "painter",
+    "services": [
+      "Waterproofing",
+      "Wall texturing"
+    ],
+    "rating": 4.8,
+    "total_reviews": 10,
+    "experience_years": 18,
+    "phone": "+92-326-6844628",
+    "verified": true,
+    "location": {
+      "sector": "G-8",
+      "city": "Islamabad",
+      "lat": 33.7121,
+      "lng": 73.0449
+    },
+    "price_range": {
+      "min": 5300,
+      "max": 16700,
+      "currency": "PKR"
+    },
+    "availability": [
+      {
+        "day": "monday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "tuesday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "wednesday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "thursday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "friday",
+        "slots": [
+          "09:00-12:00"
+        ]
+      },
+      {
+        "day": "saturday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "sunday",
+        "slots": []
+      }
+    ],
+    "languages": [
+      "Urdu"
+    ],
+    "response_time_minutes": 30,
+    "reliability_score": 81.2,
+    "cancellation_rate": 3.5,
+    "review_recency_days": 6,
+    "job_complexity_skills": [
+      "basic",
+      "intermediate",
+      "complex"
+    ],
+    "certifications": [
+      "Decorative Painting",
+      "Texture Specialist",
+      "Epoxy Flooring",
+      "Waterproofing"
+    ],
+    "tools_owned": [
+      "Sandpaper kit",
+      "Spray gun",
+      "Roller set",
+      "Masking tape",
+      "Putty knife"
+    ],
+    "recent_reviews": [
+      {
+        "rating": 4,
+        "text": "Time pe aaya aur kaam bhi theek kiya",
+        "days_ago": 13
+      },
+      {
+        "rating": 4,
+        "text": "Acha kaam tha, recommended",
+        "days_ago": 23
+      },
+      {
+        "rating": 5,
+        "text": "Bahut acha kaam kiya, time pe aaya",
+        "days_ago": 26
+      },
+      {
+        "rating": 5,
+        "text": "Bahut acha kaam kiya, time pe aaya",
+        "days_ago": 32
+      },
+      {
+        "rating": 3,
+        "text": "Theek tha, not great",
+        "days_ago": 33
+      },
+      {
+        "rating": 4,
+        "text": "Good work overall",
+        "days_ago": 42
+      }
+    ],
+    "completed_jobs_30d": 24,
+    "active_bookings_today": 0,
+    "complaint_rate": 5.6,
+    "preferred_areas": [
+      "I-10",
+      "F-11",
+      "F-8"
+    ],
+    "transport_mode": "motorcycle",
+    "average_completion_time_min": 120,
+    "gender": "female"
+  },
+  {
+    "id": "prov_005",
+    "name": "Tariq Mahmood",
+    "business_name": "Tariq Mahmood Professionals",
+    "service_type": "tutor",
+    "services": [
+      "English tutoring",
+      "Science tutoring"
+    ],
+    "rating": 3.8,
+    "total_reviews": 138,
+    "experience_years": 11,
+    "phone": "+92-341-3798468",
+    "verified": false,
+    "location": {
+      "sector": "G-7",
+      "city": "Islamabad",
+      "lat": 33.7204,
+      "lng": 73.0716
+    },
+    "price_range": {
+      "min": 2300,
+      "max": 8700,
+      "currency": "PKR"
+    },
+    "availability": [
+      {
+        "day": "monday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "tuesday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "wednesday",
+        "slots": []
+      },
+      {
+        "day": "thursday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "friday",
+        "slots": []
+      },
+      {
+        "day": "saturday",
+        "slots": [
+          "10:00-18:00"
+        ]
+      },
+      {
+        "day": "sunday",
+        "slots": [
+          "10:00-18:00"
+        ]
+      }
+    ],
+    "languages": [
+      "Urdu",
+      "English"
+    ],
+    "response_time_minutes": 45,
+    "reliability_score": 83.5,
+    "cancellation_rate": 11.1,
+    "review_recency_days": 43,
+    "job_complexity_skills": [
+      "basic",
+      "intermediate"
+    ],
+    "certifications": [
+      "Language Teaching",
+      "STEM Teaching"
+    ],
+    "tools_owned": [
+      "Study materials",
+      "Tablet",
+      "Whiteboard"
+    ],
+    "recent_reviews": [
+      {
+        "rating": 3,
+        "text": "Average work, could be better",
+        "days_ago": 11
+      },
+      {
+        "rating": 3,
+        "text": "Average work, could be better",
+        "days_ago": 16
+      },
+      {
+        "rating": 2,
+        "text": "Late aaya aur kaam bhi slow tha",
+        "days_ago": 16
+      },
+      {
+        "rating": 3,
+        "text": "Kaam ho gaya but quality average thi",
+        "days_ago": 37
+      },
+      {
+        "rating": 4,
+        "text": "Time pe aaya aur kaam bhi theek kiya",
+        "days_ago": 37
+      },
+      {
+        "rating": 2,
+        "text": "Poor communication",
+        "days_ago": 39
+      }
+    ],
+    "completed_jobs_30d": 11,
+    "active_bookings_today": 1,
+    "complaint_rate": 2.9,
+    "preferred_areas": [
+      "H-8",
+      "G-14",
+      "G-10",
+      "I-10"
+    ],
+    "transport_mode": "car",
+    "average_completion_time_min": 120,
+    "gender": "male"
+  },
+  {
+    "id": "prov_006",
+    "name": "Nazia Bibi",
+    "business_name": "Nazia Services",
+    "service_type": "plumber",
+    "services": [
+      "Bathroom fitting",
+      "Water heater installation"
+    ],
+    "rating": 4.1,
+    "total_reviews": 37,
+    "experience_years": 11,
+    "phone": "+92-341-7190801",
+    "verified": true,
+    "location": {
+      "sector": "F-8",
+      "city": "Islamabad",
+      "lat": 33.7114,
+      "lng": 73.0509
+    },
+    "price_range": {
+      "min": 600,
+      "max": 5000,
+      "currency": "PKR"
+    },
+    "availability": [
+      {
+        "day": "monday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "tuesday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "wednesday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "thursday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "friday",
+        "slots": [
+          "09:00-12:00"
+        ]
+      },
+      {
+        "day": "saturday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "sunday",
+        "slots": []
+      }
+    ],
+    "languages": [
+      "Urdu"
+    ],
+    "response_time_minutes": 45,
+    "reliability_score": 77.9,
+    "cancellation_rate": 0.6,
+    "review_recency_days": 33,
+    "job_complexity_skills": [
+      "basic"
+    ],
+    "certifications": [
+      "Pipe Fitting",
+      "Sanitary Works"
+    ],
+    "tools_owned": [
+      "Plunger",
+      "Soldering kit",
+      "Thread seal tape"
+    ],
+    "recent_reviews": [
+      {
+        "rating": 4,
+        "text": "Time pe aaya aur kaam bhi theek kiya",
+        "days_ago": 13
+      },
+      {
+        "rating": 5,
+        "text": "بہت اچھا کام کیا",
+        "days_ago": 16
+      },
+      {
+        "rating": 3,
+        "text": "Theek tha, not great",
+        "days_ago": 23
+      }
+    ],
+    "completed_jobs_30d": 15,
+    "active_bookings_today": 1,
+    "complaint_rate": 4.7,
+    "preferred_areas": [
+      "F-11",
+      "G-10"
+    ],
+    "transport_mode": "car",
+    "average_completion_time_min": 45,
+    "gender": "female"
+  },
+  {
+    "id": "prov_007",
+    "name": "Saima Noor",
+    "business_name": "Saima Services",
+    "service_type": "beautician",
+    "services": [
+      "Hair cutting",
+      "Facial"
+    ],
+    "rating": 3.6,
+    "total_reviews": 83,
+    "experience_years": 3,
+    "phone": "+92-328-3239215",
+    "verified": false,
+    "location": {
+      "sector": "G-13",
+      "city": "Islamabad",
+      "lat": 33.6456,
+      "lng": 72.9788
+    },
+    "price_range": {
+      "min": 2300,
+      "max": 15100,
+      "currency": "PKR"
+    },
+    "availability": [
+      {
+        "day": "monday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "tuesday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "wednesday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "thursday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "friday",
+        "slots": [
+          "09:00-12:00"
+        ]
+      },
+      {
+        "day": "saturday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "sunday",
+        "slots": []
+      }
+    ],
+    "languages": [
+      "Urdu",
+      "English"
+    ],
+    "response_time_minutes": 60,
+    "reliability_score": 93.3,
+    "cancellation_rate": 3.9,
+    "review_recency_days": 37,
+    "job_complexity_skills": [
+      "basic",
+      "intermediate"
+    ],
+    "certifications": [
+      "Mehndi Artist"
+    ],
+    "tools_owned": [
+      "Makeup kit",
+      "Facial kit"
+    ],
+    "recent_reviews": [
+      {
+        "rating": 2,
+        "text": "Late aaya aur kaam bhi slow tha",
+        "days_ago": 11
+      },
+      {
+        "rating": 3,
+        "text": "Theek tha, not great",
+        "days_ago": 25
+      },
+      {
+        "rating": 3,
+        "text": "Kaam ho gaya but quality average thi",
+        "days_ago": 27
+      },
+      {
+        "rating": 3,
+        "text": "Kaam ho gaya but quality average thi",
+        "days_ago": 27
+      },
+      {
+        "rating": 4,
+        "text": "Acha kaam tha, recommended",
+        "days_ago": 29
+      },
+      {
+        "rating": 3,
+        "text": "Average work, could be better",
+        "days_ago": 40
+      }
+    ],
+    "completed_jobs_30d": 7,
+    "active_bookings_today": 0,
+    "complaint_rate": 6.7,
+    "preferred_areas": [
+      "I-10",
+      "F-10"
+    ],
+    "transport_mode": "motorcycle",
+    "average_completion_time_min": 75,
+    "gender": "female"
+  },
+  {
+    "id": "prov_008",
+    "name": "Imran Shah",
+    "business_name": "Imran Driver",
+    "service_type": "driver",
+    "services": [
+      "Out of city trips",
+      "Monthly driving"
+    ],
+    "rating": 3.8,
+    "total_reviews": 33,
+    "experience_years": 2,
+    "phone": "+92-327-7070685",
+    "verified": false,
+    "location": {
+      "sector": "F-10",
+      "city": "Islamabad",
+      "lat": 33.7036,
+      "lng": 73.0182
+    },
+    "price_range": {
+      "min": 1100,
+      "max": 3200,
+      "currency": "PKR"
+    },
+    "availability": [
+      {
+        "day": "monday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "tuesday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "wednesday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "thursday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "friday",
+        "slots": [
+          "09:00-12:00"
+        ]
+      },
+      {
+        "day": "saturday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "sunday",
+        "slots": []
+      }
+    ],
+    "languages": [
+      "Urdu",
+      "English"
+    ],
+    "response_time_minutes": 30,
+    "reliability_score": 94.6,
+    "cancellation_rate": 2.7,
+    "review_recency_days": 4,
+    "job_complexity_skills": [
+      "basic",
+      "intermediate"
+    ],
+    "certifications": [
+      "City Navigation"
+    ],
+    "tools_owned": [
+      "Phone mount",
+      "First aid kit"
+    ],
+    "recent_reviews": [
+      {
+        "rating": 3,
+        "text": "Theek tha, not great",
+        "days_ago": 15
+      },
+      {
+        "rating": 4,
+        "text": "Good work overall",
+        "days_ago": 17
+      },
+      {
+        "rating": 3,
+        "text": "Average work, could be better",
+        "days_ago": 35
+      }
+    ],
+    "completed_jobs_30d": 12,
+    "active_bookings_today": 2,
+    "complaint_rate": 6.3,
+    "preferred_areas": [
+      "G-13",
+      "I-10"
+    ],
+    "transport_mode": "motorcycle",
+    "average_completion_time_min": 60,
+    "gender": "male"
+  },
+  {
+    "id": "prov_009",
+    "name": "Faisal Raza",
+    "business_name": "Faisal Beautician",
+    "service_type": "beautician",
+    "services": [
+      "Facial",
+      "Party makeup",
+      "Bridal makeup",
+      "Hair cutting"
+    ],
+    "rating": 3.4,
+    "total_reviews": 69,
+    "experience_years": 17,
+    "phone": "+92-345-1921263",
+    "verified": false,
+    "location": {
+      "sector": "I-8",
+      "city": "Islamabad",
+      "lat": 33.6905,
+      "lng": 73.0789
+    },
+    "price_range": {
+      "min": 2300,
+      "max": 15300,
+      "currency": "PKR"
+    },
+    "availability": [
+      {
+        "day": "monday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "tuesday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "wednesday",
+        "slots": []
+      },
+      {
+        "day": "thursday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "friday",
+        "slots": []
+      },
+      {
+        "day": "saturday",
+        "slots": [
+          "10:00-18:00"
+        ]
+      },
+      {
+        "day": "sunday",
+        "slots": [
+          "10:00-18:00"
+        ]
+      }
+    ],
+    "languages": [
+      "Urdu",
+      "English"
+    ],
+    "response_time_minutes": 45,
+    "reliability_score": 77.3,
+    "cancellation_rate": 6.7,
+    "review_recency_days": 29,
+    "job_complexity_skills": [
+      "basic",
+      "intermediate",
+      "complex"
+    ],
+    "certifications": [
+      "Bridal Makeup",
+      "Mehndi Artist",
+      "Hair Styling",
+      "Skin Care"
+    ],
+    "tools_owned": [
+      "Wax heater",
+      "Hair dryer",
+      "Makeup kit",
+      "Straightener",
+      "Facial kit"
+    ],
+    "recent_reviews": [
+      {
+        "rating": 3,
+        "text": "Average work, could be better",
+        "days_ago": 7
+      },
+      {
+        "rating": 3,
+        "text": "Kaam ho gaya but quality average thi",
+        "days_ago": 8
+      },
+      {
+        "rating": 3,
+        "text": "Average work, could be better",
+        "days_ago": 15
+      },
+      {
+        "rating": 1,
+        "text": "Very bad quality, had to call someone else",
+        "days_ago": 24
+      },
+      {
+        "rating": 2,
+        "text": "Poor communication",
+        "days_ago": 36
+      },
+      {
+        "rating": 4,
+        "text": "Good work overall",
+        "days_ago": 45
+      }
+    ],
+    "completed_jobs_30d": 5,
+    "active_bookings_today": 3,
+    "complaint_rate": 4.0,
+    "preferred_areas": [
+      "F-8",
+      "F-10"
+    ],
+    "transport_mode": "motorcycle",
+    "average_completion_time_min": 75,
+    "gender": "female"
+  },
+  {
+    "id": "prov_010",
+    "name": "Usman Sheikh",
+    "business_name": "Expert Pest Control by Usman",
+    "service_type": "pest_control",
+    "services": [
+      "Bed bug removal",
+      "Termite treatment",
+      "General fumigation"
+    ],
+    "rating": 3.4,
+    "total_reviews": 111,
+    "experience_years": 16,
+    "phone": "+92-317-9977583",
+    "verified": true,
+    "location": {
+      "sector": "F-11",
+      "city": "Islamabad",
+      "lat": 33.6954,
+      "lng": 73.0014
+    },
+    "price_range": {
+      "min": 2300,
+      "max": 9700,
+      "currency": "PKR"
+    },
+    "availability": [
+      {
+        "day": "monday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "tuesday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "wednesday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "thursday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "friday",
+        "slots": [
+          "09:00-12:00"
+        ]
+      },
+      {
+        "day": "saturday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "sunday",
+        "slots": []
+      }
+    ],
+    "languages": [
+      "Urdu",
+      "English"
+    ],
+    "response_time_minutes": 30,
+    "reliability_score": 87.9,
+    "cancellation_rate": 0.5,
+    "review_recency_days": 33,
+    "job_complexity_skills": [
+      "basic",
+      "intermediate",
+      "complex"
+    ],
+    "certifications": [
+      "Termite Treatment",
+      "Fumigation Safety",
+      "Rodent Control",
+      "Organic Pest Control"
+    ],
+    "tools_owned": [
+      "Inspection torch",
+      "Spray machine",
+      "Safety mask",
+      "Chemical kit"
+    ],
+    "recent_reviews": [
+      {
+        "rating": 4,
+        "text": "Good work overall",
+        "days_ago": 15
+      },
+      {
+        "rating": 3,
+        "text": "Average work, could be better",
+        "days_ago": 24
+      },
+      {
+        "rating": 3,
+        "text": "Average work, could be better",
+        "days_ago": 25
+      },
+      {
+        "rating": 3,
+        "text": "Kaam ho gaya but quality average thi",
+        "days_ago": 26
+      }
+    ],
+    "completed_jobs_30d": 13,
+    "active_bookings_today": 3,
+    "complaint_rate": 5.4,
+    "preferred_areas": [
+      "G-11",
+      "G-13",
+      "F-10",
+      "G-10"
+    ],
+    "transport_mode": "motorcycle",
+    "average_completion_time_min": 45,
+    "gender": "male"
+  },
+  {
+    "id": "prov_011",
+    "name": "Zainab Ali",
+    "business_name": "Zainab Ali Professionals",
+    "service_type": "tutor",
+    "services": [
+      "Exam preparation",
+      "Math tutoring",
+      "English tutoring",
+      "Science tutoring"
+    ],
+    "rating": 3.7,
+    "total_reviews": 108,
+    "experience_years": 12,
+    "phone": "+92-330-1217605",
+    "verified": true,
+    "location": {
+      "sector": "F-8",
+      "city": "Islamabad",
+      "lat": 33.7073,
+      "lng": 73.0505
+    },
+    "price_range": {
+      "min": 2400,
+      "max": 7500,
+      "currency": "PKR"
+    },
+    "availability": [
+      {
+        "day": "monday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "tuesday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "wednesday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "thursday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "friday",
+        "slots": [
+          "09:00-12:00"
+        ]
+      },
+      {
+        "day": "saturday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "sunday",
+        "slots": []
+      }
+    ],
+    "languages": [
+      "Urdu",
+      "English"
+    ],
+    "response_time_minutes": 120,
+    "reliability_score": 95.2,
+    "cancellation_rate": 4.5,
+    "review_recency_days": 30,
+    "job_complexity_skills": [
+      "basic"
+    ],
+    "certifications": [
+      "Language Teaching",
+      "Board Exam Prep",
+      "O/A Level Specialist"
+    ],
+    "tools_owned": [
+      "Study materials",
+      "Past papers",
+      "Whiteboard",
+      "Tablet"
+    ],
+    "recent_reviews": [
+      {
+        "rating": 3,
+        "text": "Kaam ho gaya but quality average thi",
+        "days_ago": 16
+      },
+      {
+        "rating": 4,
+        "text": "Satisfied with the service",
+        "days_ago": 30
+      },
+      {
+        "rating": 4,
+        "text": "Acha kaam tha, recommended",
+        "days_ago": 43
+      }
+    ],
+    "completed_jobs_30d": 18,
+    "active_bookings_today": 1,
+    "complaint_rate": 2.1,
+    "preferred_areas": [
+      "F-11",
+      "F-8",
+      "H-8",
+      "G-14"
+    ],
+    "transport_mode": "rickshaw",
+    "average_completion_time_min": 45,
+    "gender": "male"
+  },
+  {
+    "id": "prov_012",
+    "name": "Farhan Saeed",
+    "business_name": "Farhan Services",
+    "service_type": "pest_control",
+    "services": [
+      "General fumigation",
+      "Bed bug removal",
+      "Termite treatment"
+    ],
+    "rating": 4.1,
+    "total_reviews": 19,
+    "experience_years": 13,
+    "phone": "+92-337-2861399",
+    "verified": true,
+    "location": {
+      "sector": "F-8",
+      "city": "Islamabad",
+      "lat": 33.71,
+      "lng": 73.0565
+    },
+    "price_range": {
+      "min": 2800,
+      "max": 7700,
+      "currency": "PKR"
+    },
+    "availability": [
+      {
+        "day": "monday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "tuesday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "wednesday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "thursday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "friday",
+        "slots": [
+          "09:00-12:00"
+        ]
+      },
+      {
+        "day": "saturday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "sunday",
+        "slots": []
+      }
+    ],
+    "languages": [
+      "Urdu"
+    ],
+    "response_time_minutes": 30,
+    "reliability_score": 75.8,
+    "cancellation_rate": 3.2,
+    "review_recency_days": 16,
+    "job_complexity_skills": [
+      "basic"
+    ],
+    "certifications": [
+      "Rodent Control",
+      "Termite Treatment",
+      "Fumigation Safety"
+    ],
+    "tools_owned": [
+      "Chemical kit",
+      "Safety mask",
+      "Spray machine",
+      "Inspection torch"
+    ],
+    "recent_reviews": [
+      {
+        "rating": 4,
+        "text": "Time pe aaya aur kaam bhi theek kiya",
+        "days_ago": 8
+      },
+      {
+        "rating": 4,
+        "text": "Satisfied with the service",
+        "days_ago": 19
+      },
+      {
+        "rating": 4,
+        "text": "Acha kaam tha, recommended",
+        "days_ago": 25
+      },
+      {
+        "rating": 4,
+        "text": "Good work overall",
+        "days_ago": 41
+      }
+    ],
+    "completed_jobs_30d": 8,
+    "active_bookings_today": 1,
+    "complaint_rate": 2.4,
+    "preferred_areas": [
+      "G-11",
+      "F-10",
+      "I-10"
+    ],
+    "transport_mode": "motorcycle",
+    "average_completion_time_min": 90,
+    "gender": "male"
+  },
+  {
+    "id": "prov_013",
+    "name": "Noman Qureshi",
+    "business_name": "Expert Painter by Noman",
+    "service_type": "painter",
+    "services": [
+      "House painting",
+      "Wall texturing"
+    ],
+    "rating": 4.3,
+    "total_reviews": 142,
+    "experience_years": 1,
+    "phone": "+92-303-8309226",
+    "verified": true,
+    "location": {
+      "sector": "F-6",
+      "city": "Islamabad",
+      "lat": 33.7337,
+      "lng": 73.087
+    },
+    "price_range": {
+      "min": 4800,
+      "max": 14700,
+      "currency": "PKR"
+    },
+    "availability": [
+      {
+        "day": "monday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "tuesday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "wednesday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "thursday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "friday",
+        "slots": [
+          "09:00-12:00"
+        ]
+      },
+      {
+        "day": "saturday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "sunday",
+        "slots": []
+      }
+    ],
+    "languages": [
+      "Urdu",
+      "English"
+    ],
+    "response_time_minutes": 45,
+    "reliability_score": 76.4,
+    "cancellation_rate": 0.4,
+    "review_recency_days": 24,
+    "job_complexity_skills": [
+      "basic"
+    ],
+    "certifications": [
+      "Texture Specialist"
+    ],
+    "tools_owned": [
+      "Masking tape",
+      "Spray gun"
+    ],
+    "recent_reviews": [
+      {
+        "rating": 4,
+        "text": "Time pe aaya aur kaam bhi theek kiya",
+        "days_ago": 20
+      },
+      {
+        "rating": 3,
+        "text": "Kaam ho gaya but quality average thi",
+        "days_ago": 20
+      },
+      {
+        "rating": 4,
+        "text": "Satisfied with the service",
+        "days_ago": 22
+      },
+      {
+        "rating": 3,
+        "text": "Theek tha, not great",
+        "days_ago": 31
+      },
+      {
+        "rating": 3,
+        "text": "Average work, could be better",
+        "days_ago": 41
+      },
+      {
+        "rating": 4,
+        "text": "Acha kaam tha, recommended",
+        "days_ago": 41
+      }
+    ],
+    "completed_jobs_30d": 18,
+    "active_bookings_today": 3,
+    "complaint_rate": 5.9,
+    "preferred_areas": [
+      "G-10",
+      "F-10"
+    ],
+    "transport_mode": "motorcycle",
+    "average_completion_time_min": 90,
+    "gender": "male"
+  },
+  {
+    "id": "prov_014",
+    "name": "Ayesha Siddiqa",
+    "business_name": "Ayesha Plumber",
+    "service_type": "plumber",
+    "services": [
+      "Water heater installation",
+      "Leak fixing",
+      "Pipe repair",
+      "Bathroom fitting"
+    ],
+    "rating": 3.3,
+    "total_reviews": 129,
+    "experience_years": 2,
+    "phone": "+92-322-8980009",
+    "verified": true,
+    "location": {
+      "sector": "Blue Area",
+      "city": "Islamabad",
+      "lat": 33.7141,
+      "lng": 73.0463
+    },
+    "price_range": {
+      "min": 300,
+      "max": 3800,
+      "currency": "PKR"
+    },
+    "availability": [
+      {
+        "day": "monday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "tuesday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "wednesday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "thursday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "friday",
+        "slots": [
+          "09:00-12:00"
+        ]
+      },
+      {
+        "day": "saturday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "sunday",
+        "slots": []
+      }
+    ],
+    "languages": [
+      "Urdu",
+      "English"
+    ],
+    "response_time_minutes": 120,
+    "reliability_score": 88.4,
+    "cancellation_rate": 6.7,
+    "review_recency_days": 23,
+    "job_complexity_skills": [
+      "basic",
+      "intermediate"
+    ],
+    "certifications": [
+      "Pipe Fitting"
+    ],
+    "tools_owned": [
+      "Soldering kit",
+      "Pipe cutter"
+    ],
+    "recent_reviews": [
+      {
+        "rating": 1,
+        "text": "Worst experience, nahi aaya time pe",
+        "days_ago": 10
+      },
+      {
+        "rating": 1,
+        "text": "Worst experience, nahi aaya time pe",
+        "days_ago": 20
+      },
+      {
+        "rating": 1,
+        "text": "Worst experience, nahi aaya time pe",
+        "days_ago": 27
+      },
+      {
+        "rating": 3,
+        "text": "Average work, could be better",
+        "days_ago": 43
+      }
+    ],
+    "completed_jobs_30d": 24,
+    "active_bookings_today": 0,
+    "complaint_rate": 7.3,
+    "preferred_areas": [
+      "Blue Area",
+      "F-10"
+    ],
+    "transport_mode": "motorcycle",
+    "average_completion_time_min": 90,
+    "gender": "male"
+  },
+  {
+    "id": "prov_015",
+    "name": "Nida Khan",
+    "business_name": "Nida Services",
+    "service_type": "ac_technician",
+    "services": [
+      "AC repair",
+      "AC gas refill"
+    ],
+    "rating": 4.3,
+    "total_reviews": 23,
+    "experience_years": 7,
+    "phone": "+92-332-8026125",
+    "verified": true,
+    "location": {
+      "sector": "F-11",
+      "city": "Islamabad",
+      "lat": 33.6902,
+      "lng": 73.0085
+    },
+    "price_range": {
+      "min": 1300,
+      "max": 5700,
+      "currency": "PKR"
+    },
+    "availability": [
+      {
+        "day": "monday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "tuesday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "wednesday",
+        "slots": []
+      },
+      {
+        "day": "thursday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "friday",
+        "slots": []
+      },
+      {
+        "day": "saturday",
+        "slots": [
+          "10:00-18:00"
+        ]
+      },
+      {
+        "day": "sunday",
+        "slots": [
+          "10:00-18:00"
+        ]
+      }
+    ],
+    "languages": [
+      "Urdu",
+      "English"
+    ],
+    "response_time_minutes": 15,
+    "reliability_score": 79.9,
+    "cancellation_rate": 1.5,
+    "review_recency_days": 15,
+    "job_complexity_skills": [
+      "basic",
+      "intermediate"
+    ],
+    "certifications": [
+      "AC Repair Level 2"
+    ],
+    "tools_owned": [
+      "Flare tool",
+      "Manifold gauge"
+    ],
+    "recent_reviews": [
+      {
+        "rating": 3,
+        "text": "Theek tha, not great",
+        "days_ago": 19
+      },
+      {
+        "rating": 5,
+        "text": "10/10 would recommend",
+        "days_ago": 20
+      },
+      {
+        "rating": 3,
+        "text": "Kaam ho gaya but quality average thi",
+        "days_ago": 22
+      },
+      {
+        "rating": 4,
+        "text": "Time pe aaya aur kaam bhi theek kiya",
+        "days_ago": 26
+      },
+      {
+        "rating": 4,
+        "text": "Satisfied with the service",
+        "days_ago": 26
+      },
+      {
+        "rating": 3,
+        "text": "Kaam ho gaya but quality average thi",
+        "days_ago": 29
+      }
+    ],
+    "completed_jobs_30d": 19,
+    "active_bookings_today": 1,
+    "complaint_rate": 7.1,
+    "preferred_areas": [
+      "G-13",
+      "G-11",
+      "Blue Area"
+    ],
+    "transport_mode": "motorcycle",
+    "average_completion_time_min": 120,
+    "gender": "female"
+  },
+  {
+    "id": "prov_016",
+    "name": "Yasir Hussain",
+    "business_name": "Expert Ac Technician by Yasir",
+    "service_type": "ac_technician",
+    "services": [
+      "AC repair",
+      "AC maintenance"
+    ],
+    "rating": 3.4,
+    "total_reviews": 25,
+    "experience_years": 5,
+    "phone": "+92-305-8373156",
+    "verified": false,
+    "location": {
+      "sector": "I-10",
+      "city": "Islamabad",
+      "lat": 33.6632,
+      "lng": 73.0132
+    },
+    "price_range": {
+      "min": 1300,
+      "max": 6600,
+      "currency": "PKR"
+    },
+    "availability": [
+      {
+        "day": "monday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "tuesday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "wednesday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "thursday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "friday",
+        "slots": [
+          "09:00-12:00"
+        ]
+      },
+      {
+        "day": "saturday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "sunday",
+        "slots": []
+      }
+    ],
+    "languages": [
+      "Urdu",
+      "English"
+    ],
+    "response_time_minutes": 30,
+    "reliability_score": 72.7,
+    "cancellation_rate": 0.1,
+    "review_recency_days": 21,
+    "job_complexity_skills": [
+      "basic",
+      "intermediate",
+      "complex"
+    ],
+    "certifications": [
+      "Gas Handling Safety"
+    ],
+    "tools_owned": [
+      "Manifold gauge",
+      "AC gas kit"
+    ],
+    "recent_reviews": [
+      {
+        "rating": 1,
+        "text": "Very bad quality, had to call someone else",
+        "days_ago": 9
+      },
+      {
+        "rating": 2,
+        "text": "Late aaya aur kaam bhi slow tha",
+        "days_ago": 14
+      },
+      {
+        "rating": 4,
+        "text": "Acha kaam tha, recommended",
+        "days_ago": 29
+      }
+    ],
+    "completed_jobs_30d": 23,
+    "active_bookings_today": 3,
+    "complaint_rate": 2.4,
+    "preferred_areas": [
+      "Blue Area",
+      "I-8",
+      "G-11",
+      "F-8"
+    ],
+    "transport_mode": "motorcycle",
+    "average_completion_time_min": 120,
+    "gender": "male"
+  },
+  {
+    "id": "prov_017",
+    "name": "Adnan Sami",
+    "business_name": "Adnan Driver",
+    "service_type": "driver",
+    "services": [
+      "Daily drop/pick",
+      "Out of city trips"
+    ],
+    "rating": 3.4,
+    "total_reviews": 65,
+    "experience_years": 10,
+    "phone": "+92-312-1013497",
+    "verified": true,
+    "location": {
+      "sector": "I-8",
+      "city": "Islamabad",
+      "lat": 33.696,
+      "lng": 73.0827
+    },
+    "price_range": {
+      "min": 1000,
+      "max": 5000,
+      "currency": "PKR"
+    },
+    "availability": [
+      {
+        "day": "monday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "tuesday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "wednesday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "thursday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "friday",
+        "slots": [
+          "09:00-12:00"
+        ]
+      },
+      {
+        "day": "saturday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "sunday",
+        "slots": []
+      }
+    ],
+    "languages": [
+      "Urdu",
+      "English"
+    ],
+    "response_time_minutes": 45,
+    "reliability_score": 97.5,
+    "cancellation_rate": 14.6,
+    "review_recency_days": 36,
+    "job_complexity_skills": [
+      "basic",
+      "intermediate"
+    ],
+    "certifications": [
+      "City Navigation",
+      "AC Vehicle"
+    ],
+    "tools_owned": [
+      "First aid kit",
+      "Phone mount",
+      "GPS device"
+    ],
+    "recent_reviews": [
+      {
+        "rating": 4,
+        "text": "Satisfied with the service",
+        "days_ago": 21
+      },
+      {
+        "rating": 1,
+        "text": "Worst experience, nahi aaya time pe",
+        "days_ago": 28
+      },
+      {
+        "rating": 2,
+        "text": "Not satisfied, overcharged",
+        "days_ago": 33
+      },
+      {
+        "rating": 3,
+        "text": "Kaam ho gaya but quality average thi",
+        "days_ago": 38
+      },
+      {
+        "rating": 1,
+        "text": "Very bad quality, had to call someone else",
+        "days_ago": 45
+      }
+    ],
+    "completed_jobs_30d": 12,
+    "active_bookings_today": 3,
+    "complaint_rate": 6.2,
+    "preferred_areas": [
+      "G-11",
+      "G-14"
+    ],
+    "transport_mode": "rickshaw",
+    "average_completion_time_min": 90,
+    "gender": "male"
+  },
+  {
+    "id": "prov_018",
+    "name": "Hafiz Zubair",
+    "business_name": "Expert Electrician by Hafiz",
+    "service_type": "electrician",
+    "services": [
+      "UPS installation",
+      "Short circuit repair"
+    ],
+    "rating": 3.7,
+    "total_reviews": 2,
+    "experience_years": 12,
+    "phone": "+92-340-5934765",
+    "verified": true,
+    "location": {
+      "sector": "F-11",
+      "city": "Islamabad",
+      "lat": 33.6926,
+      "lng": 73.0061
+    },
+    "price_range": {
+      "min": 1300,
+      "max": 3900,
+      "currency": "PKR"
+    },
+    "availability": [
+      {
+        "day": "monday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "tuesday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "wednesday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "thursday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "friday",
+        "slots": [
+          "09:00-12:00"
+        ]
+      },
+      {
+        "day": "saturday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "sunday",
+        "slots": []
+      }
+    ],
+    "languages": [
+      "Urdu"
+    ],
+    "response_time_minutes": 120,
+    "reliability_score": 98.7,
+    "cancellation_rate": 8.0,
+    "review_recency_days": 26,
+    "job_complexity_skills": [
+      "basic",
+      "intermediate",
+      "complex"
+    ],
+    "certifications": [
+      "UPS/Inverter Wiring",
+      "Industrial Wiring",
+      "Electrical Safety"
+    ],
+    "tools_owned": [
+      "Drill machine",
+      "Circuit tester",
+      "Multimeter",
+      "Cable ties"
+    ],
+    "recent_reviews": [
+      {
+        "rating": 3,
+        "text": "Average work, could be better",
+        "days_ago": 5
+      },
+      {
+        "rating": 3,
+        "text": "Average work, could be better",
+        "days_ago": 13
+      },
+      {
+        "rating": 4,
+        "text": "Satisfied with the service",
+        "days_ago": 19
+      },
+      {
+        "rating": 3,
+        "text": "Average work, could be better",
+        "days_ago": 38
+      }
+    ],
+    "completed_jobs_30d": 25,
+    "active_bookings_today": 0,
+    "complaint_rate": 7.7,
+    "preferred_areas": [
+      "G-13",
+      "G-14",
+      "Blue Area",
+      "H-8"
+    ],
+    "transport_mode": "motorcycle",
+    "average_completion_time_min": 75,
+    "gender": "female"
+  },
+  {
+    "id": "prov_019",
+    "name": "Khurram Manzoor",
+    "business_name": "Khurram Manzoor Professionals",
+    "service_type": "pest_control",
+    "services": [
+      "Bed bug removal",
+      "General fumigation",
+      "Termite treatment"
+    ],
+    "rating": 3.9,
+    "total_reviews": 68,
+    "experience_years": 1,
+    "phone": "+92-313-7132409",
+    "verified": true,
+    "location": {
+      "sector": "G-8",
+      "city": "Islamabad",
+      "lat": 33.7071,
+      "lng": 73.0504
+    },
+    "price_range": {
+      "min": 2300,
+      "max": 8100,
+      "currency": "PKR"
+    },
+    "availability": [
+      {
+        "day": "monday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "tuesday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "wednesday",
+        "slots": []
+      },
+      {
+        "day": "thursday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "friday",
+        "slots": []
+      },
+      {
+        "day": "saturday",
+        "slots": [
+          "10:00-18:00"
+        ]
+      },
+      {
+        "day": "sunday",
+        "slots": [
+          "10:00-18:00"
+        ]
+      }
+    ],
+    "languages": [
+      "Urdu"
+    ],
+    "response_time_minutes": 15,
+    "reliability_score": 80.8,
+    "cancellation_rate": 13.7,
+    "review_recency_days": 24,
+    "job_complexity_skills": [
+      "basic"
+    ],
+    "certifications": [
+      "Termite Treatment"
+    ],
+    "tools_owned": [
+      "Spray machine",
+      "Safety mask"
+    ],
+    "recent_reviews": [
+      {
+        "rating": 5,
+        "text": "Excellent work, very professional",
+        "days_ago": 3
+      },
+      {
+        "rating": 3,
+        "text": "Theek tha, not great",
+        "days_ago": 8
+      },
+      {
+        "rating": 3,
+        "text": "Kaam ho gaya but quality average thi",
+        "days_ago": 11
+      },
+      {
+        "rating": 2,
+        "text": "Poor communication",
+        "days_ago": 16
+      },
+      {
+        "rating": 3,
+        "text": "Kaam ho gaya but quality average thi",
+        "days_ago": 21
+      },
+      {
+        "rating": 4,
+        "text": "Satisfied with the service",
+        "days_ago": 40
+      }
+    ],
+    "completed_jobs_30d": 24,
+    "active_bookings_today": 2,
+    "complaint_rate": 5.0,
+    "preferred_areas": [
+      "F-11",
+      "H-8",
+      "I-10",
+      "I-8"
+    ],
+    "transport_mode": "motorcycle",
+    "average_completion_time_min": 120,
+    "gender": "female"
+  },
+  {
+    "id": "prov_020",
+    "name": "Saad Rafique",
+    "business_name": "Saad Rafique Professionals",
+    "service_type": "painter",
+    "services": [
+      "House painting",
+      "Waterproofing",
+      "Polish work",
+      "Wall texturing"
+    ],
+    "rating": 3.7,
+    "total_reviews": 80,
+    "experience_years": 15,
+    "phone": "+92-310-2569827",
+    "verified": false,
+    "location": {
+      "sector": "F-7",
+      "city": "Islamabad",
+      "lat": 33.7227,
+      "lng": 73.0803
+    },
+    "price_range": {
+      "min": 5100,
+      "max": 14700,
+      "currency": "PKR"
+    },
+    "availability": [
+      {
+        "day": "monday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "tuesday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "wednesday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "thursday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "friday",
+        "slots": [
+          "09:00-12:00"
+        ]
+      },
+      {
+        "day": "saturday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "sunday",
+        "slots": []
+      }
+    ],
+    "languages": [
+      "Urdu",
+      "English"
+    ],
+    "response_time_minutes": 45,
+    "reliability_score": 98.3,
+    "cancellation_rate": 2.7,
+    "review_recency_days": 9,
+    "job_complexity_skills": [
+      "basic",
+      "intermediate"
+    ],
+    "certifications": [
+      "Epoxy Flooring",
+      "Decorative Painting",
+      "Waterproofing"
+    ],
+    "tools_owned": [
+      "Masking tape",
+      "Spray gun",
+      "Sandpaper kit",
+      "Putty knife",
+      "Roller set"
+    ],
+    "recent_reviews": [
+      {
+        "rating": 5,
+        "text": "10/10 would recommend",
+        "days_ago": 6
+      },
+      {
+        "rating": 2,
+        "text": "Poor communication",
+        "days_ago": 30
+      },
+      {
+        "rating": 5,
+        "text": "Bahut acha kaam kiya, time pe aaya",
+        "days_ago": 45
+      }
+    ],
+    "completed_jobs_30d": 9,
+    "active_bookings_today": 0,
+    "complaint_rate": 5.6,
+    "preferred_areas": [
+      "G-10",
+      "F-10",
+      "I-10",
+      "Blue Area"
+    ],
+    "transport_mode": "motorcycle",
+    "average_completion_time_min": 45,
+    "gender": "male"
+  },
+  {
+    "id": "prov_021",
+    "name": "Amir Jamil",
+    "business_name": "Amir Ac Technician",
+    "service_type": "ac_technician",
+    "services": [
+      "AC maintenance",
+      "AC repair"
+    ],
+    "rating": 4.6,
+    "total_reviews": 23,
+    "experience_years": 6,
+    "phone": "+92-344-8068284",
+    "verified": true,
+    "location": {
+      "sector": "G-6",
+      "city": "Islamabad",
+      "lat": 33.7332,
+      "lng": 73.0964
+    },
+    "price_range": {
+      "min": 1600,
+      "max": 5100,
+      "currency": "PKR"
+    },
+    "availability": [
+      {
+        "day": "monday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "tuesday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "wednesday",
+        "slots": []
+      },
+      {
+        "day": "thursday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "friday",
+        "slots": []
+      },
+      {
+        "day": "saturday",
+        "slots": [
+          "10:00-18:00"
+        ]
+      },
+      {
+        "day": "sunday",
+        "slots": [
+          "10:00-18:00"
+        ]
+      }
+    ],
+    "languages": [
+      "Urdu"
+    ],
+    "response_time_minutes": 120,
+    "reliability_score": 81.8,
+    "cancellation_rate": 8.5,
+    "review_recency_days": 41,
+    "job_complexity_skills": [
+      "basic",
+      "intermediate",
+      "complex"
+    ],
+    "certifications": [
+      "HVAC Maintenance"
+    ],
+    "tools_owned": [
+      "Manifold gauge",
+      "Flare tool"
+    ],
+    "recent_reviews": [
+      {
+        "rating": 3,
+        "text": "Theek tha, not great",
+        "days_ago": 17
+      },
+      {
+        "rating": 4,
+        "text": "Good work overall",
+        "days_ago": 33
+      },
+      {
+        "rating": 2,
+        "text": "Late aaya aur kaam bhi slow tha",
+        "days_ago": 38
+      },
+      {
+        "rating": 3,
+        "text": "Average work, could be better",
+        "days_ago": 42
+      },
+      {
+        "rating": 5,
+        "text": "Excellent work, very professional",
+        "days_ago": 45
+      }
+    ],
+    "completed_jobs_30d": 7,
+    "active_bookings_today": 0,
+    "complaint_rate": 1.0,
+    "preferred_areas": [
+      "G-14",
+      "I-8"
+    ],
+    "transport_mode": "motorcycle",
+    "average_completion_time_min": 90,
+    "gender": "male"
+  },
+  {
+    "id": "prov_022",
+    "name": "Waqas Mian",
+    "business_name": "Waqas Mian Professionals",
+    "service_type": "driver",
+    "services": [
+      "Out of city trips",
+      "Daily drop/pick"
+    ],
+    "rating": 3.7,
+    "total_reviews": 53,
+    "experience_years": 14,
+    "phone": "+92-317-1754417",
+    "verified": true,
+    "location": {
+      "sector": "G-13",
+      "city": "Islamabad",
+      "lat": 33.6462,
+      "lng": 72.9815
+    },
+    "price_range": {
+      "min": 900,
+      "max": 3400,
+      "currency": "PKR"
+    },
+    "availability": [
+      {
+        "day": "monday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "tuesday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "wednesday",
+        "slots": []
+      },
+      {
+        "day": "thursday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "friday",
+        "slots": []
+      },
+      {
+        "day": "saturday",
+        "slots": [
+          "10:00-18:00"
+        ]
+      },
+      {
+        "day": "sunday",
+        "slots": [
+          "10:00-18:00"
+        ]
+      }
+    ],
+    "languages": [
+      "Urdu",
+      "English"
+    ],
+    "response_time_minutes": 120,
+    "reliability_score": 76.7,
+    "cancellation_rate": 12.4,
+    "review_recency_days": 29,
+    "job_complexity_skills": [
+      "basic",
+      "intermediate",
+      "complex"
+    ],
+    "certifications": [
+      "AC Vehicle",
+      "Defensive Driving",
+      "Long Route"
+    ],
+    "tools_owned": [
+      "First aid kit",
+      "GPS device",
+      "Phone mount"
+    ],
+    "recent_reviews": [
+      {
+        "rating": 3,
+        "text": "Kaam ho gaya but quality average thi",
+        "days_ago": 13
+      },
+      {
+        "rating": 3,
+        "text": "Kaam ho gaya but quality average thi",
+        "days_ago": 29
+      },
+      {
+        "rating": 5,
+        "text": "Excellent work, very professional",
+        "days_ago": 39
+      }
+    ],
+    "completed_jobs_30d": 6,
+    "active_bookings_today": 1,
+    "complaint_rate": 2.4,
+    "preferred_areas": [
+      "F-10",
+      "G-10",
+      "H-8",
+      "G-11"
+    ],
+    "transport_mode": "motorcycle",
+    "average_completion_time_min": 60,
+    "gender": "male"
+  },
+  {
+    "id": "prov_023",
+    "name": "Sana Mir",
+    "business_name": "Expert Cook by Sana",
+    "service_type": "cook",
+    "services": [
+      "Baking",
+      "Daily cooking",
+      "Diet meals",
+      "Event catering"
+    ],
+    "rating": 3.9,
+    "total_reviews": 138,
+    "experience_years": 10,
+    "phone": "+92-303-1597869",
+    "verified": true,
+    "location": {
+      "sector": "G-13",
+      "city": "Islamabad",
+      "lat": 33.6439,
+      "lng": 72.9745
+    },
+    "price_range": {
+      "min": 1600,
+      "max": 6300,
+      "currency": "PKR"
+    },
+    "availability": [
+      {
+        "day": "monday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "tuesday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "wednesday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "thursday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "friday",
+        "slots": [
+          "09:00-12:00"
+        ]
+      },
+      {
+        "day": "saturday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "sunday",
+        "slots": []
+      }
+    ],
+    "languages": [
+      "Urdu",
+      "English"
+    ],
+    "response_time_minutes": 60,
+    "reliability_score": 88.5,
+    "cancellation_rate": 5.0,
+    "review_recency_days": 12,
+    "job_complexity_skills": [
+      "basic",
+      "intermediate",
+      "complex"
+    ],
+    "certifications": [
+      "Catering",
+      "Baking"
+    ],
+    "tools_owned": [
+      "Knife set",
+      "Portable stove",
+      "BBQ grill"
+    ],
+    "recent_reviews": [
+      {
+        "rating": 4,
+        "text": "Good work overall",
+        "days_ago": 8
+      },
+      {
+        "rating": 3,
+        "text": "Theek tha, not great",
+        "days_ago": 12
+      },
+      {
+        "rating": 3,
+        "text": "Average work, could be better",
+        "days_ago": 27
+      },
+      {
+        "rating": 3,
+        "text": "Kaam ho gaya but quality average thi",
+        "days_ago": 32
+      },
+      {
+        "rating": 3,
+        "text": "Kaam ho gaya but quality average thi",
+        "days_ago": 43
+      },
+      {
+        "rating": 4,
+        "text": "Good work overall",
+        "days_ago": 45
+      }
+    ],
+    "completed_jobs_30d": 18,
+    "active_bookings_today": 1,
+    "complaint_rate": 3.7,
+    "preferred_areas": [
+      "F-11",
+      "I-8",
+      "G-10"
+    ],
+    "transport_mode": "motorcycle",
+    "average_completion_time_min": 45,
+    "gender": "male"
+  },
+  {
+    "id": "prov_024",
+    "name": "Mariya Shafiq",
+    "business_name": "Mariya Services",
+    "service_type": "electrician",
+    "services": [
+      "Wiring",
+      "Generator repair"
+    ],
+    "rating": 3.5,
+    "total_reviews": 36,
+    "experience_years": 19,
+    "phone": "+92-325-9558169",
+    "verified": true,
+    "location": {
+      "sector": "I-8",
+      "city": "Islamabad",
+      "lat": 33.6926,
+      "lng": 73.0791
+    },
+    "price_range": {
+      "min": 900,
+      "max": 5600,
+      "currency": "PKR"
+    },
+    "availability": [
+      {
+        "day": "monday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "tuesday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "wednesday",
+        "slots": []
+      },
+      {
+        "day": "thursday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "friday",
+        "slots": []
+      },
+      {
+        "day": "saturday",
+        "slots": [
+          "10:00-18:00"
+        ]
+      },
+      {
+        "day": "sunday",
+        "slots": [
+          "10:00-18:00"
+        ]
+      }
+    ],
+    "languages": [
+      "Urdu",
+      "English"
+    ],
+    "response_time_minutes": 120,
+    "reliability_score": 72.7,
+    "cancellation_rate": 12.8,
+    "review_recency_days": 1,
+    "job_complexity_skills": [
+      "basic",
+      "intermediate",
+      "complex"
+    ],
+    "certifications": [
+      "Solar Panel Install",
+      "UPS/Inverter Wiring",
+      "Electrical Safety",
+      "Industrial Wiring"
+    ],
+    "tools_owned": [
+      "Cable ties",
+      "Multimeter",
+      "Circuit tester",
+      "Drill machine",
+      "Wire stripper"
+    ],
+    "recent_reviews": [
+      {
+        "rating": 3,
+        "text": "Theek tha, not great",
+        "days_ago": 29
+      },
+      {
+        "rating": 3,
+        "text": "Average work, could be better",
+        "days_ago": 37
+      },
+      {
+        "rating": 2,
+        "text": "Late aaya aur kaam bhi slow tha",
+        "days_ago": 39
+      },
+      {
+        "rating": 3,
+        "text": "Kaam ho gaya but quality average thi",
+        "days_ago": 40
+      }
+    ],
+    "completed_jobs_30d": 14,
+    "active_bookings_today": 3,
+    "complaint_rate": 7.0,
+    "preferred_areas": [
+      "Blue Area",
+      "I-10",
+      "F-10",
+      "H-8"
+    ],
+    "transport_mode": "walk",
+    "average_completion_time_min": 90,
+    "gender": "male"
+  },
+  {
+    "id": "prov_025",
+    "name": "Shoaib Akhtar",
+    "business_name": "Shoaib Services",
+    "service_type": "beautician",
+    "services": [
+      "Party makeup",
+      "Hair cutting",
+      "Facial"
+    ],
+    "rating": 3.3,
+    "total_reviews": 77,
+    "experience_years": 15,
+    "phone": "+92-324-6681178",
+    "verified": true,
+    "location": {
+      "sector": "G-10",
+      "city": "Islamabad",
+      "lat": 33.6954,
+      "lng": 73.0073
+    },
+    "price_range": {
+      "min": 2300,
+      "max": 16900,
+      "currency": "PKR"
+    },
+    "availability": [
+      {
+        "day": "monday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "tuesday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "wednesday",
+        "slots": []
+      },
+      {
+        "day": "thursday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "friday",
+        "slots": []
+      },
+      {
+        "day": "saturday",
+        "slots": [
+          "10:00-18:00"
+        ]
+      },
+      {
+        "day": "sunday",
+        "slots": [
+          "10:00-18:00"
+        ]
+      }
+    ],
+    "languages": [
+      "Urdu",
+      "English"
+    ],
+    "response_time_minutes": 60,
+    "reliability_score": 89.9,
+    "cancellation_rate": 13.6,
+    "review_recency_days": 43,
+    "job_complexity_skills": [
+      "basic",
+      "intermediate",
+      "complex"
+    ],
+    "certifications": [
+      "Skin Care",
+      "Mehndi Artist",
+      "Hair Styling"
+    ],
+    "tools_owned": [
+      "Makeup kit",
+      "Hair dryer",
+      "Straightener",
+      "Wax heater",
+      "Facial kit"
+    ],
+    "recent_reviews": [
+      {
+        "rating": 3,
+        "text": "Theek tha, not great",
+        "days_ago": 23
+      },
+      {
+        "rating": 3,
+        "text": "Theek tha, not great",
+        "days_ago": 29
+      },
+      {
+        "rating": 2,
+        "text": "Late aaya aur kaam bhi slow tha",
+        "days_ago": 37
+      }
+    ],
+    "completed_jobs_30d": 5,
+    "active_bookings_today": 0,
+    "complaint_rate": 7.3,
+    "preferred_areas": [
+      "Blue Area",
+      "G-11",
+      "F-10"
+    ],
+    "transport_mode": "motorcycle",
+    "average_completion_time_min": 60,
+    "gender": "female"
+  },
+  {
+    "id": "prov_026",
+    "name": "Rizwan Iqbal",
+    "business_name": "Expert Cook by Rizwan",
+    "service_type": "cook",
+    "services": [
+      "Daily cooking",
+      "Event catering"
+    ],
+    "rating": 4.8,
+    "total_reviews": 61,
+    "experience_years": 17,
+    "phone": "+92-335-6289913",
+    "verified": false,
+    "location": {
+      "sector": "G-8",
+      "city": "Islamabad",
+      "lat": 33.712,
+      "lng": 73.0475
+    },
+    "price_range": {
+      "min": 1300,
+      "max": 6300,
+      "currency": "PKR"
+    },
+    "availability": [
+      {
+        "day": "monday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "tuesday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "wednesday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "thursday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "friday",
+        "slots": [
+          "09:00-12:00"
+        ]
+      },
+      {
+        "day": "saturday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "sunday",
+        "slots": []
+      }
+    ],
+    "languages": [
+      "Urdu",
+      "English"
+    ],
+    "response_time_minutes": 45,
+    "reliability_score": 80.1,
+    "cancellation_rate": 7.2,
+    "review_recency_days": 16,
+    "job_complexity_skills": [
+      "basic"
+    ],
+    "certifications": [
+      "BBQ Specialist",
+      "Catering",
+      "Baking",
+      "Pakistani Cuisine"
+    ],
+    "tools_owned": [
+      "Knife set",
+      "BBQ grill",
+      "Spice kit",
+      "Portable stove"
+    ],
+    "recent_reviews": [
+      {
+        "rating": 5,
+        "text": "بہت اچھا کام کیا",
+        "days_ago": 3
+      },
+      {
+        "rating": 3,
+        "text": "Theek tha, not great",
+        "days_ago": 13
+      },
+      {
+        "rating": 4,
+        "text": "Acha kaam tha, recommended",
+        "days_ago": 26
+      },
+      {
+        "rating": 3,
+        "text": "Average work, could be better",
+        "days_ago": 28
+      },
+      {
+        "rating": 4,
+        "text": "Time pe aaya aur kaam bhi theek kiya",
+        "days_ago": 45
+      }
+    ],
+    "completed_jobs_30d": 12,
+    "active_bookings_today": 0,
+    "complaint_rate": 5.9,
+    "preferred_areas": [
+      "H-8",
+      "G-10",
+      "F-8",
+      "Blue Area"
+    ],
+    "transport_mode": "walk",
+    "average_completion_time_min": 75,
+    "gender": "female"
+  },
+  {
+    "id": "prov_027",
+    "name": "Hamza Ali",
+    "business_name": "Hamza Ac Technician",
+    "service_type": "ac_technician",
+    "services": [
+      "AC repair",
+      "AC maintenance",
+      "AC gas refill"
+    ],
+    "rating": 4.6,
+    "total_reviews": 44,
+    "experience_years": 13,
+    "phone": "+92-318-5177941",
+    "verified": true,
+    "location": {
+      "sector": "G-7",
+      "city": "Islamabad",
+      "lat": 33.723,
+      "lng": 73.0787
+    },
+    "price_range": {
+      "min": 1800,
+      "max": 6700,
+      "currency": "PKR"
+    },
+    "availability": [
+      {
+        "day": "monday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "tuesday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "wednesday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "thursday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "friday",
+        "slots": [
+          "09:00-12:00"
+        ]
+      },
+      {
+        "day": "saturday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "sunday",
+        "slots": []
+      }
+    ],
+    "languages": [
+      "Urdu",
+      "English"
+    ],
+    "response_time_minutes": 60,
+    "reliability_score": 74.7,
+    "cancellation_rate": 5.3,
+    "review_recency_days": 44,
+    "job_complexity_skills": [
+      "basic",
+      "intermediate",
+      "complex"
+    ],
+    "certifications": [
+      "Inverter AC Specialist",
+      "AC Repair Level 2",
+      "Gas Handling Safety"
+    ],
+    "tools_owned": [
+      "Multimeter",
+      "Vacuum pump",
+      "AC gas kit",
+      "Flare tool"
+    ],
+    "recent_reviews": [
+      {
+        "rating": 4,
+        "text": "Acha kaam tha, recommended",
+        "days_ago": 2
+      },
+      {
+        "rating": 3,
+        "text": "Kaam ho gaya but quality average thi",
+        "days_ago": 24
+      },
+      {
+        "rating": 4,
+        "text": "Good work overall",
+        "days_ago": 37
+      }
+    ],
+    "completed_jobs_30d": 21,
+    "active_bookings_today": 1,
+    "complaint_rate": 1.2,
+    "preferred_areas": [
+      "I-10",
+      "G-11"
+    ],
+    "transport_mode": "bicycle",
+    "average_completion_time_min": 75,
+    "gender": "male"
+  },
+  {
+    "id": "prov_028",
+    "name": "Javed Miandad",
+    "business_name": "Expert Carpenter by Javed",
+    "service_type": "carpenter",
+    "services": [
+      "Wood polishing",
+      "Door lock fix",
+      "Cabinet making",
+      "Furniture repair"
+    ],
+    "rating": 4.3,
+    "total_reviews": 108,
+    "experience_years": 3,
+    "phone": "+92-327-8781986",
+    "verified": true,
+    "location": {
+      "sector": "Blue Area",
+      "city": "Islamabad",
+      "lat": 33.7054,
+      "lng": 73.0547
+    },
+    "price_range": {
+      "min": 800,
+      "max": 7700,
+      "currency": "PKR"
+    },
+    "availability": [
+      {
+        "day": "monday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "tuesday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "wednesday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "thursday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "friday",
+        "slots": [
+          "09:00-12:00"
+        ]
+      },
+      {
+        "day": "saturday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "sunday",
+        "slots": []
+      }
+    ],
+    "languages": [
+      "Urdu",
+      "English"
+    ],
+    "response_time_minutes": 120,
+    "reliability_score": 90.8,
+    "cancellation_rate": 13.8,
+    "review_recency_days": 31,
+    "job_complexity_skills": [
+      "basic",
+      "intermediate",
+      "complex"
+    ],
+    "certifications": [
+      "Furniture Making"
+    ],
+    "tools_owned": [
+      "Chisel set",
+      "Circular saw"
+    ],
+    "recent_reviews": [
+      {
+        "rating": 5,
+        "text": "10/10 would recommend",
+        "days_ago": 6
+      },
+      {
+        "rating": 4,
+        "text": "Acha kaam tha, recommended",
+        "days_ago": 6
+      },
+      {
+        "rating": 4,
+        "text": "Time pe aaya aur kaam bhi theek kiya",
+        "days_ago": 9
+      }
+    ],
+    "completed_jobs_30d": 21,
+    "active_bookings_today": 3,
+    "complaint_rate": 2.5,
+    "preferred_areas": [
+      "F-10",
+      "Blue Area",
+      "I-10"
+    ],
+    "transport_mode": "rickshaw",
+    "average_completion_time_min": 60,
+    "gender": "male"
+  },
+  {
+    "id": "prov_029",
+    "name": "Rabia Anum",
+    "business_name": "Rabia Services",
+    "service_type": "tutor",
+    "services": [
+      "Science tutoring",
+      "English tutoring"
+    ],
+    "rating": 4.0,
+    "total_reviews": 122,
+    "experience_years": 14,
+    "phone": "+92-305-3097730",
+    "verified": true,
+    "location": {
+      "sector": "F-10",
+      "city": "Islamabad",
+      "lat": 33.7044,
+      "lng": 73.0204
+    },
+    "price_range": {
+      "min": 2500,
+      "max": 8200,
+      "currency": "PKR"
+    },
+    "availability": [
+      {
+        "day": "monday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "tuesday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "wednesday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "thursday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "friday",
+        "slots": [
+          "09:00-12:00"
+        ]
+      },
+      {
+        "day": "saturday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "sunday",
+        "slots": []
+      }
+    ],
+    "languages": [
+      "Urdu",
+      "English"
+    ],
+    "response_time_minutes": 15,
+    "reliability_score": 73.5,
+    "cancellation_rate": 1.9,
+    "review_recency_days": 34,
+    "job_complexity_skills": [
+      "basic"
+    ],
+    "certifications": [
+      "Board Exam Prep",
+      "STEM Teaching",
+      "O/A Level Specialist"
+    ],
+    "tools_owned": [
+      "Tablet",
+      "Study materials",
+      "Past papers",
+      "Whiteboard"
+    ],
+    "recent_reviews": [
+      {
+        "rating": 3,
+        "text": "Average work, could be better",
+        "days_ago": 2
+      },
+      {
+        "rating": 2,
+        "text": "Poor communication",
+        "days_ago": 2
+      },
+      {
+        "rating": 5,
+        "text": "Bahut acha kaam kiya, time pe aaya",
+        "days_ago": 3
+      },
+      {
+        "rating": 2,
+        "text": "Poor communication",
+        "days_ago": 28
+      },
+      {
+        "rating": 3,
+        "text": "Kaam ho gaya but quality average thi",
+        "days_ago": 36
+      },
+      {
+        "rating": 4,
+        "text": "Satisfied with the service",
+        "days_ago": 42
+      }
+    ],
+    "completed_jobs_30d": 14,
+    "active_bookings_today": 1,
+    "complaint_rate": 3.0,
+    "preferred_areas": [
+      "Blue Area",
+      "H-8",
+      "G-10",
+      "F-11"
+    ],
+    "transport_mode": "motorcycle",
+    "average_completion_time_min": 75,
+    "gender": "male"
+  },
+  {
+    "id": "prov_030",
+    "name": "Sadia Imam",
+    "business_name": "Expert Plumber by Sadia",
+    "service_type": "plumber",
+    "services": [
+      "Water heater installation",
+      "Pipe repair",
+      "Bathroom fitting",
+      "Leak fixing"
+    ],
+    "rating": 3.8,
+    "total_reviews": 86,
+    "experience_years": 14,
+    "phone": "+92-331-7642419",
+    "verified": true,
+    "location": {
+      "sector": "Bahria Town",
+      "city": "Islamabad",
+      "lat": 33.5201,
+      "lng": 73.0888
+    },
+    "price_range": {
+      "min": 800,
+      "max": 3800,
+      "currency": "PKR"
+    },
+    "availability": [
+      {
+        "day": "monday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "tuesday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "wednesday",
+        "slots": []
+      },
+      {
+        "day": "thursday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "friday",
+        "slots": []
+      },
+      {
+        "day": "saturday",
+        "slots": [
+          "10:00-18:00"
+        ]
+      },
+      {
+        "day": "sunday",
+        "slots": [
+          "10:00-18:00"
+        ]
+      }
+    ],
+    "languages": [
+      "Urdu"
+    ],
+    "response_time_minutes": 15,
+    "reliability_score": 81.0,
+    "cancellation_rate": 2.9,
+    "review_recency_days": 5,
+    "job_complexity_skills": [
+      "basic",
+      "intermediate"
+    ],
+    "certifications": [
+      "Sanitary Works",
+      "Pipe Fitting",
+      "Solar Geyser Setup"
+    ],
+    "tools_owned": [
+      "Pipe wrench",
+      "Thread seal tape",
+      "Pipe cutter",
+      "Plunger"
+    ],
+    "recent_reviews": [
+      {
+        "rating": 4,
+        "text": "Acha kaam tha, recommended",
+        "days_ago": 5
+      },
+      {
+        "rating": 3,
+        "text": "Average work, could be better",
+        "days_ago": 13
+      },
+      {
+        "rating": 2,
+        "text": "Late aaya aur kaam bhi slow tha",
+        "days_ago": 44
+      }
+    ],
+    "completed_jobs_30d": 9,
+    "active_bookings_today": 2,
+    "complaint_rate": 0.7,
+    "preferred_areas": [
+      "H-8",
+      "G-13",
+      "G-11"
+    ],
+    "transport_mode": "rickshaw",
+    "average_completion_time_min": 45,
+    "gender": "male"
+  },
+  {
+    "id": "prov_031",
+    "name": "Tahir Shah",
+    "business_name": "Tahir Services",
+    "service_type": "cook",
+    "services": [
+      "Daily cooking",
+      "Diet meals",
+      "Event catering"
+    ],
+    "rating": 4.8,
+    "total_reviews": 102,
+    "experience_years": 13,
+    "phone": "+92-325-6858180",
+    "verified": true,
+    "location": {
+      "sector": "Blue Area",
+      "city": "Islamabad",
+      "lat": 33.7111,
+      "lng": 73.0462
+    },
+    "price_range": {
+      "min": 1600,
+      "max": 5900,
+      "currency": "PKR"
+    },
+    "availability": [
+      {
+        "day": "monday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "tuesday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "wednesday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "thursday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "friday",
+        "slots": [
+          "09:00-12:00"
+        ]
+      },
+      {
+        "day": "saturday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "sunday",
+        "slots": []
+      }
+    ],
+    "languages": [
+      "Urdu",
+      "English"
+    ],
+    "response_time_minutes": 15,
+    "reliability_score": 94.8,
+    "cancellation_rate": 12.1,
+    "review_recency_days": 21,
+    "job_complexity_skills": [
+      "basic",
+      "intermediate",
+      "complex"
+    ],
+    "certifications": [
+      "Baking",
+      "BBQ Specialist",
+      "Catering"
+    ],
+    "tools_owned": [
+      "BBQ grill",
+      "Knife set",
+      "Portable stove",
+      "Spice kit"
+    ],
+    "recent_reviews": [
+      {
+        "rating": 4,
+        "text": "Good work overall",
+        "days_ago": 31
+      },
+      {
+        "rating": 5,
+        "text": "Excellent work, very professional",
+        "days_ago": 31
+      },
+      {
+        "rating": 5,
+        "text": "بہت اچھا کام کیا",
+        "days_ago": 34
+      }
+    ],
+    "completed_jobs_30d": 25,
+    "active_bookings_today": 0,
+    "complaint_rate": 4.5,
+    "preferred_areas": [
+      "G-11",
+      "I-8"
+    ],
+    "transport_mode": "bicycle",
+    "average_completion_time_min": 60,
+    "gender": "male"
+  },
+  {
+    "id": "prov_032",
+    "name": "Umer Gul",
+    "business_name": "Expert Carpenter by Umer",
+    "service_type": "carpenter",
+    "services": [
+      "Door lock fix",
+      "Cabinet making",
+      "Furniture repair"
+    ],
+    "rating": 4.2,
+    "total_reviews": 41,
+    "experience_years": 7,
+    "phone": "+92-323-8983711",
+    "verified": true,
+    "location": {
+      "sector": "F-8",
+      "city": "Islamabad",
+      "lat": 33.7142,
+      "lng": 73.0591
+    },
+    "price_range": {
+      "min": 700,
+      "max": 8500,
+      "currency": "PKR"
+    },
+    "availability": [
+      {
+        "day": "monday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "tuesday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "wednesday",
+        "slots": []
+      },
+      {
+        "day": "thursday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "friday",
+        "slots": []
+      },
+      {
+        "day": "saturday",
+        "slots": [
+          "10:00-18:00"
+        ]
+      },
+      {
+        "day": "sunday",
+        "slots": [
+          "10:00-18:00"
+        ]
+      }
+    ],
+    "languages": [
+      "Urdu",
+      "English"
+    ],
+    "response_time_minutes": 45,
+    "reliability_score": 84.3,
+    "cancellation_rate": 6.7,
+    "review_recency_days": 18,
+    "job_complexity_skills": [
+      "basic",
+      "intermediate"
+    ],
+    "certifications": [
+      "Cabinet Installation"
+    ],
+    "tools_owned": [
+      "Power drill",
+      "Measuring tape"
+    ],
+    "recent_reviews": [
+      {
+        "rating": 4,
+        "text": "Acha kaam tha, recommended",
+        "days_ago": 9
+      },
+      {
+        "rating": 3,
+        "text": "Kaam ho gaya but quality average thi",
+        "days_ago": 14
+      },
+      {
+        "rating": 2,
+        "text": "Late aaya aur kaam bhi slow tha",
+        "days_ago": 17
+      },
+      {
+        "rating": 4,
+        "text": "Time pe aaya aur kaam bhi theek kiya",
+        "days_ago": 18
+      },
+      {
+        "rating": 4,
+        "text": "Acha kaam tha, recommended",
+        "days_ago": 24
+      }
+    ],
+    "completed_jobs_30d": 6,
+    "active_bookings_today": 1,
+    "complaint_rate": 2.6,
+    "preferred_areas": [
+      "F-11",
+      "F-8"
+    ],
+    "transport_mode": "bicycle",
+    "average_completion_time_min": 45,
+    "gender": "male"
+  },
+  {
+    "id": "prov_033",
+    "name": "Danish Taimoor",
+    "business_name": "Expert Plumber by Danish",
+    "service_type": "plumber",
+    "services": [
+      "Pipe repair",
+      "Bathroom fitting",
+      "Leak fixing"
+    ],
+    "rating": 3.9,
+    "total_reviews": 146,
+    "experience_years": 20,
+    "phone": "+92-342-4911581",
+    "verified": true,
+    "location": {
+      "sector": "F-8",
+      "city": "Islamabad",
+      "lat": 33.7073,
+      "lng": 73.0542
+    },
+    "price_range": {
+      "min": 100,
+      "max": 4500,
+      "currency": "PKR"
+    },
+    "availability": [
+      {
+        "day": "monday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "tuesday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "wednesday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "thursday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "friday",
+        "slots": [
+          "09:00-12:00"
+        ]
+      },
+      {
+        "day": "saturday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "sunday",
+        "slots": []
+      }
+    ],
+    "languages": [
+      "Urdu",
+      "English"
+    ],
+    "response_time_minutes": 45,
+    "reliability_score": 88.2,
+    "cancellation_rate": 11.7,
+    "review_recency_days": 12,
+    "job_complexity_skills": [
+      "basic",
+      "intermediate",
+      "complex"
+    ],
+    "certifications": [
+      "Sanitary Works",
+      "Water Heater Installation",
+      "Pipe Fitting",
+      "Solar Geyser Setup"
+    ],
+    "tools_owned": [
+      "Pipe cutter",
+      "Pipe wrench",
+      "Soldering kit",
+      "Thread seal tape",
+      "Plunger"
+    ],
+    "recent_reviews": [
+      {
+        "rating": 3,
+        "text": "Kaam ho gaya but quality average thi",
+        "days_ago": 2
+      },
+      {
+        "rating": 4,
+        "text": "Time pe aaya aur kaam bhi theek kiya",
+        "days_ago": 33
+      },
+      {
+        "rating": 3,
+        "text": "Average work, could be better",
+        "days_ago": 39
+      },
+      {
+        "rating": 4,
+        "text": "Acha kaam tha, recommended",
+        "days_ago": 40
+      }
+    ],
+    "completed_jobs_30d": 7,
+    "active_bookings_today": 0,
+    "complaint_rate": 2.2,
+    "preferred_areas": [
+      "I-8",
+      "G-14",
+      "I-10"
+    ],
+    "transport_mode": "rickshaw",
+    "average_completion_time_min": 45,
+    "gender": "male"
+  },
+  {
+    "id": "prov_034",
+    "name": "Asad Shafiq",
+    "business_name": "Asad Services",
+    "service_type": "carpenter",
+    "services": [
+      "Wood polishing",
+      "Cabinet making",
+      "Furniture repair",
+      "Door lock fix"
+    ],
+    "rating": 4.0,
+    "total_reviews": 36,
+    "experience_years": 6,
+    "phone": "+92-329-3153451",
+    "verified": true,
+    "location": {
+      "sector": "F-6",
+      "city": "Islamabad",
+      "lat": 33.7341,
+      "lng": 73.087
+    },
+    "price_range": {
+      "min": 1100,
+      "max": 10000,
+      "currency": "PKR"
+    },
+    "availability": [
+      {
+        "day": "monday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "tuesday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "wednesday",
+        "slots": []
+      },
+      {
+        "day": "thursday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "friday",
+        "slots": []
+      },
+      {
+        "day": "saturday",
+        "slots": [
+          "10:00-18:00"
+        ]
+      },
+      {
+        "day": "sunday",
+        "slots": [
+          "10:00-18:00"
+        ]
+      }
+    ],
+    "languages": [
+      "Urdu",
+      "English"
+    ],
+    "response_time_minutes": 120,
+    "reliability_score": 77.0,
+    "cancellation_rate": 12.2,
+    "review_recency_days": 19,
+    "job_complexity_skills": [
+      "basic"
+    ],
+    "certifications": [
+      "Door/Window Fitting"
+    ],
+    "tools_owned": [
+      "Chisel set",
+      "Power drill"
+    ],
+    "recent_reviews": [
+      {
+        "rating": 2,
+        "text": "Not satisfied, overcharged",
+        "days_ago": 32
+      },
+      {
+        "rating": 4,
+        "text": "Acha kaam tha, recommended",
+        "days_ago": 39
+      },
+      {
+        "rating": 4,
+        "text": "Satisfied with the service",
+        "days_ago": 43
+      }
+    ],
+    "completed_jobs_30d": 23,
+    "active_bookings_today": 0,
+    "complaint_rate": 3.2,
+    "preferred_areas": [
+      "G-13",
+      "G-14",
+      "G-11",
+      "I-8"
+    ],
+    "transport_mode": "walk",
+    "average_completion_time_min": 45,
+    "gender": "male"
+  },
+  {
+    "id": "prov_035",
+    "name": "Babar Azam",
+    "business_name": "Babar Electrician",
+    "service_type": "electrician",
+    "services": [
+      "Generator repair",
+      "Wiring",
+      "UPS installation",
+      "Short circuit repair"
+    ],
+    "rating": 4.5,
+    "total_reviews": 43,
+    "experience_years": 11,
+    "phone": "+92-301-5083171",
+    "verified": true,
+    "location": {
+      "sector": "G-7",
+      "city": "Islamabad",
+      "lat": 33.7187,
+      "lng": 73.0727
+    },
+    "price_range": {
+      "min": 700,
+      "max": 5900,
+      "currency": "PKR"
+    },
+    "availability": [
+      {
+        "day": "monday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "tuesday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "wednesday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "thursday",
+        "slots": [
+          "09:00-12:00",
+          "14:00-18:00"
+        ]
+      },
+      {
+        "day": "friday",
+        "slots": [
+          "09:00-12:00"
+        ]
+      },
+      {
+        "day": "saturday",
+        "slots": [
+          "10:00-14:00"
+        ]
+      },
+      {
+        "day": "sunday",
+        "slots": []
+      }
+    ],
+    "languages": [
+      "Urdu"
+    ],
+    "response_time_minutes": 120,
+    "reliability_score": 85.7,
+    "cancellation_rate": 9.1,
+    "review_recency_days": 16,
+    "job_complexity_skills": [
+      "basic",
+      "intermediate",
+      "complex"
+    ],
+    "certifications": [
+      "Electrical Safety",
+      "UPS/Inverter Wiring"
+    ],
+    "tools_owned": [
+      "Cable ties",
+      "Drill machine",
+      "Circuit tester"
+    ],
+    "recent_reviews": [
+      {
+        "rating": 3,
+        "text": "Kaam ho gaya but quality average thi",
+        "days_ago": 11
+      },
+      {
+        "rating": 5,
+        "text": "بہت اچھا کام کیا",
+        "days_ago": 22
+      },
+      {
+        "rating": 3,
+        "text": "Kaam ho gaya but quality average thi",
+        "days_ago": 27
+      },
+      {
+        "rating": 3,
+        "text": "Theek tha, not great",
+        "days_ago": 30
+      }
+    ],
+    "completed_jobs_30d": 15,
+    "active_bookings_today": 2,
+    "complaint_rate": 4.1,
+    "preferred_areas": [
+      "F-11",
+      "H-8",
+      "Blue Area",
+      "G-11"
+    ],
+    "transport_mode": "motorcycle",
+    "average_completion_time_min": 90,
+    "gender": "male"
+  }
+]
