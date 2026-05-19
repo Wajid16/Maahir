@@ -5,12 +5,12 @@ Write-Host "Optimizing APK size using split-per-abi..." -ForegroundColor Yellow
 
 # Clean project before building
 Write-Host "Cleaning previous builds..."
-flutter clean
-flutter pub get
+C:\src\flutter\bin\flutter.bat clean
+C:\src\flutter\bin\flutter.bat pub get
 
 # Build the release APKs
 Write-Host "Building APKs..."
-flutter build apk --release --split-per-abi
+C:\src\flutter\bin\flutter.bat build apk --release --split-per-abi
 
 Write-Host "Build Complete!" -ForegroundColor Green
 Write-Host "Your APKs are located at: build\app\outputs\flutter-apk\" -ForegroundColor Cyan
